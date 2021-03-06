@@ -1,0 +1,1459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_data\tfunction"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"cl",
+				"close\tfunction"
+			],
+			[
+				"is",
+				"is_connected\tfunction"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"tim",
+				"TimeoutError\tclass"
+			],
+			[
+				"d",
+				"__dir__"
+			],
+			[
+				"class",
+				"ClassName\tclass"
+			],
+			[
+				"readl",
+				"readline\tfunction"
+			],
+			[
+				"bos",
+				"BoschSerial\tclass"
+			],
+			[
+				"in",
+				"in_waiting\tfunction"
+			],
+			[
+				"readline",
+				"readlines\tfunction"
+			],
+			[
+				"pres",
+				"press_button\tfunction"
+			],
+			[
+				"cmd",
+				"cmd_sequence\tparam"
+			],
+			[
+				"pow",
+				"power_on\tfunction"
+			],
+			[
+				"Bo",
+				"BoschSerial\tclass"
+			],
+			[
+				"bosh",
+				"bosch_ser"
+			],
+			[
+				"driver",
+				"DriverSerial\tclass"
+			],
+			[
+				"por",
+				"port_info_type\tparam"
+			],
+			[
+				"pre",
+				"press_button\tfunction"
+			],
+			[
+				"op",
+				"open_port\tfunction"
+			],
+			[
+				"dem",
+				"Demo\tclass"
+			],
+			[
+				"start",
+				"start_time\tstatement"
+			],
+			[
+				"controlg",
+				"ControlGetText()"
+			],
+			[
+				"byt",
+				"byte_list\tstatement"
+			],
+			[
+				"sim",
+				"sim_template\tinstance"
+			],
+			[
+				"find_e",
+				"find_elements_by_id\tfunction"
+			],
+			[
+				"findele",
+				"find_element_by_id\tfunction"
+			],
+			[
+				"find",
+				"find_element_by_xpath\tfunction"
+			],
+			[
+				"msg",
+				"messagebox"
+			],
+			[
+				"buttonca",
+				"ButtonCamaraConnect\tstatement"
+			],
+			[
+				"show",
+				"showinfo\tfunction"
+			],
+			[
+				"button",
+				"ButtonDTC\tstatement"
+			],
+			[
+				"tab",
+				"table_text_compare\tstatement"
+			],
+			[
+				"html",
+				"html_detail_result\tstatement"
+			],
+			[
+				"html_",
+				"html_rows\tstatement"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"canvans",
+				"CanvasReference\tstatement"
+			],
+			[
+				"cnt",
+				"cnt_order\tstatement"
+			],
+			[
+				"tex",
+				"TextConsole\tstatement"
+			],
+			[
+				"put",
+				"put_text\tfunction"
+			],
+			[
+				"canv",
+				"CanvasReference\tstatement"
+			],
+			[
+				"resize",
+				"resize_img"
+			],
+			[
+				"can",
+				"CanvasCurrent\tstatement"
+			],
+			[
+				"result",
+				"result_flag\tstatement"
+			],
+			[
+				"resi",
+				"resize_img\tfunction"
+			],
+			[
+				"im",
+				"imread\tfunction"
+			],
+			[
+				"draw",
+				"draw_all_contours\tfunction"
+			],
+			[
+				"scree",
+				"screen_contour\tstatement"
+			],
+			[
+				"read",
+				"ocr_read"
+			],
+			[
+				"warp",
+				"warpPerspective\tfunction"
+			],
+			[
+				"img",
+				"img_show\tfunction"
+			],
+			[
+				"fidn",
+				"findContours\tfunction"
+			],
+			[
+				"first",
+				"first_row_flag\tstatement"
+			],
+			[
+				"ini",
+				"initial_part\tstatement"
+			],
+			[
+				"ob",
+				"obd2_pwm"
+			],
+			[
+				"proto",
+				"protocol_type\tparam"
+			],
+			[
+				"numb",
+				"number_of_data_bytes\tstatement"
+			],
+			[
+				"ford_",
+				"ford_iso9141"
+			],
+			[
+				"ecu",
+				"ecu_address"
+			],
+			[
+				"stan",
+				"standardize_string\tfunction"
+			],
+			[
+				"put_",
+				"put_data_to_sim_command\tfunction"
+			],
+			[
+				"dot",
+				"DotMap\tclass"
+			],
+			[
+				"strn",
+				"standardize_string\tfunction"
+			],
+			[
+				"dic",
+				"dict\tclass"
+			],
+			[
+				"re",
+				"response_command\tfunction"
+			],
+			[
+				"out",
+				"output_raw\tparam"
+			],
+			[
+				"simul",
+				"simulation_dir_path\tstatement"
+			],
+			[
+				"wri",
+				"write_data\tfunction"
+			],
+			[
+				"dec",
+				"dec_swap_num"
+			],
+			[
+				"au",
+				"auto_pid_list\tstatement"
+			],
+			[
+				"raw",
+				"raw_to_readable\tfunction"
+			],
+			[
+				"xmin_",
+				"xmin_hex\tstatement"
+			],
+			[
+				"ld_",
+				"ld_output_raw_dec\tparam"
+			],
+			[
+				"path",
+				"pathlib\tmodule"
+			],
+			[
+				"filter",
+				"filtered_paths\tstatement"
+			],
+			[
+				"auto",
+				"auto_pid_str"
+			],
+			[
+				"Inn",
+				"IncorrectVinLength\tclass"
+			],
+			[
+				"OBD2",
+				"Obd2Simulation\tclass"
+			],
+			[
+				"dtcs",
+				"dtcstring\tparam"
+			],
+			[
+				"ch",
+				"check_missing_formula\tfunction"
+			],
+			[
+				"crea",
+				"create_livedata"
+			],
+			[
+				"item",
+				"item_infor"
+			],
+			[
+				"writ",
+				"write_data"
+			],
+			[
+				"wr",
+				"write_data"
+			],
+			[
+				"bytes",
+				"byte_size"
+			],
+			[
+				"byte",
+				"byte_size"
+			],
+			[
+				"tra",
+				"Translation"
+			],
+			[
+				"to",
+				"to_list"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"sid",
+				"sid_data_list"
+			],
+			[
+				"byte_",
+				"byte_position"
+			],
+			[
+				"PROTOC",
+				"PROTOCOL_CAN"
+			],
+			[
+				"dtc_",
+				"dtc_status_df"
+			],
+			[
+				"write",
+				"write_missing_enum"
+			],
+			[
+				"w",
+				"write_missing_enum_flag"
+			],
+			[
+				"set",
+				"set_index"
+			],
+			[
+				"obd2_",
+				"obd2_monitors_path"
+			],
+			[
+				"OBD",
+				"Obd2Simulation"
+			],
+			[
+				"stat",
+				"staticmethod"
+			],
+			[
+				"can_",
+				"can_postfix"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"sheet_name",
+				"sheet_names"
+			],
+			[
+				"vin",
+				"vinfull"
+			],
+			[
+				"database",
+				"database_display"
+			],
+			[
+				"VIN",
+				"VinDecode"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"lan",
+				"lang_filter"
+			],
+			[
+				"samp",
+				"SampleHtml"
+			],
+			[
+				"_Arrayda",
+				"_ArrayDisplay()"
+			],
+			[
+				"_array",
+				"_ArrayDisplay()"
+			],
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"system",
+				"SYSTEM\tJava Class"
+			],
+			[
+				"_IE",
+				"_IECreate()"
+			],
+			[
+				"stringre",
+				"StringRegExpReplace()"
+			],
+			[
+				"stringrep",
+				"StringRegExpReplace()"
+			],
+			[
+				"for",
+				"ForToStepNext"
+			],
+			[
+				"Console",
+				"ConsoleWrite()"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"thr",
+				"throws"
+			],
+			[
+				"file",
+				"FileInputStream"
+			],
+			[
+				"student",
+				"Student"
+			],
+			[
+				"stri",
+				"String"
+			],
+			[
+				"el",
+				"el\telse"
+			],
+			[
+				"strin",
+				"string_in_string"
+			],
+			[
+				"Cir",
+				"Circle"
+			],
+			[
+				"@Des",
+				"@DesktopDir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 12719,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scratch.py",
+			"settings":
+			{
+				"buffer_size": 77,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sim.py",
+			"settings":
+			{
+				"buffer_size": 10317,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vehicles.py",
+			"settings":
+			{
+				"buffer_size": 1472,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "check_serial_ports.py",
+			"settings":
+			{
+				"buffer_size": 509,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dtc_converter.py",
+			"settings":
+			{
+				"buffer_size": 2402,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Actions History"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 402.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Google Drive/3. Coding/Bosch Fix Reserve Tool"
+	],
+	"file_history":
+	[
+		"/G/Google Drive/3. Coding/Bosch Fix Reserve Tool/scratch.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim/bosch_sim - Copy.sim",
+		"/F/6. Simulation Files/CAN - All in One.sim",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim/bosch_sim.sim",
+		"/G/Google Drive/3. Coding/bot/copus_builder.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim_template.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/check_serial_ports.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/driver.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/winautodemo.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/test.au3",
+		"/C/Users/ThienNguyen/Desktop/put_sim_data.py",
+		"/C/Users/ThienNguyen/Desktop/aaa.py",
+		"/G/Google Drive/3. Coding/Innova Server - New version Mar04/lib/simulation.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/dtc_converter.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim_auto.au3",
+		"/G/Google Drive/3. Coding/bot/database_process.py",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO430F46D4/sf_valuetable.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO43026D03/sf_itemsubfunction1.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO43067332/sf_itemfunction.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO430CB201/sf_functionid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO4303E281/sf_formularoem.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO430B3390/sfvariableid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO4307E00F/sfscreenid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO0074E770/sfscreenitem_desp1.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO430791AF/sfconditionid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO4301292E/command.txt",
+		"/C/Users/ThienNguyen/Desktop/FIX_FROM BOSCH/001. Latest/split_posssible_causes.py",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/ThienNguyen/Desktop/Mercedes-Benz.json",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO8B67614E/profileid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO8B683D7E/tcm_itemid.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/emotion.yml",
+		"/G/Google Drive/3. Coding/bot/grammarcheck.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/botprofile.yml",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/greetings.yml",
+		"/G/Google Drive/3. Coding/bot/grammar_check.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/movies.yml",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/trivia.yml",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/conversations.yml",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/corpus.py",
+		"/C/Users/ThienNguyen/AppData/Local/Temp/7zO4DB461BF/intents.json",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/ThienNguyen/Desktop/Python-BOT-master/app.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/logic/logic_adapter.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/logic/time_adapter.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/corpus.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/logic/specific_response.py",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/User/PythonCMD.sublime-build",
+		"/C/Users/ThienNguyen/Desktop/Python-BOT-master/db.sqlite3",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0001_initial.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/english/ai.yml",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus-1.2.0.dist-info/top_level.txt",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/chatterbot.py",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot/conversation.py",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim#/Innova FIX Demo (Pxx00-Pxx45).sim",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/temp",
+		"/G/Google Drive/Visual Computers/Bosch Fix Reserve Tool/sim_template.sim",
+		"/G/Google Drive/3. Coding/bot/main.py",
+		"/G/Google Drive/3. Coding/bot/test_chatbot.py",
+		"/C/Users/ThienNguyen/Desktop/2017 ford fusion throttle body relearn.cap",
+		"/G/Google Drive/3. Coding/bot/session.txt",
+		"/G/Google Drive/3. Coding/Python/Tutorial/file_and_folder/file_and_folder.py",
+		"/G/Google Drive/3. Coding/Python/Innova Server/source/common/mypaths.py",
+		"/G/Google Drive/3. Coding/bot/attach.py",
+		"/C/Users/ThienNguyen/Downloads/Network Sniffer.html",
+		"/G/Google Drive/3. Coding/bot/assessment.py",
+		"/C/Users/ThienNguyen/Desktop/New Text Document.txt",
+		"/C/Users/ThienNguyen/Desktop/Fix tool Macro(Dec312019).bas",
+		"/C/Users/ThienNguyen/Desktop/Python-Packet-Sniffer-master/Packet-Sniffer.py",
+		"/G/Google Drive/3. Coding/bot/Note.txt",
+		"/C/Users/ThienNguyen/Desktop/pcap2har-master/main.py",
+		"/C/Users/ThienNguyen/AppData/Local/Google/Chrome/User Data/Default/Extensions/coblekblkacfilmgdghecpekhadldjfj/1.0.9_0/blank.html",
+		"/C/Users/ThienNguyen/AppData/Local/Google/Chrome/User Data/Default/Extensions/coblekblkacfilmgdghecpekhadldjfj/1.0.9_0/_metadata/verified_contents.json",
+		"/C/Program Files (x86)/Microsoft/Edge/Application/83.0.478.54/Extensions/external_extensions.json",
+		"/C/Users/ThienNguyen/Desktop/freeformatter-out.txt",
+		"/C/Users/ThienNguyen/Desktop/zalo.js",
+		"/G/Google Drive/3. Coding/bot/browsermob-proxy-2.1.4/bin/browsermob-proxy",
+		"/C/Users/ThienNguyen/Desktop/Bosch Fix Reserve Tool/driver.py",
+		"/C/Users/ThienNguyen/AppData/Local/ZaloPC/action/action_log.txt",
+		"/C/Users/ThienNguyen/AppData/Local/ZaloPC/temp/4b1730021f1d192ff3ec6bb3751e0a7d.txt",
+		"/C/Users/ThienNguyen/Desktop/my-voice-analysis-master/test1.py",
+		"/C/Users/ThienNguyen/Desktop/myprosody-master/testpro.py",
+		"/C/Users/ThienNguyen/Desktop/myprosody-master/myprosody.py",
+		"/C/Users/ThienNguyen/Desktop/myprosody-master/myprosody/dataset/audioFiles/groups.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/myprosody-master/myprosody/dataset/audioFiles/A_civil_war_broke_out_between_the_two_groups.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/myprosody-master/requirements.txt",
+		"/C/Users/ThienNguyen/Desktop/Speechat-master/spokenlanguageassessment.py",
+		"/C/Users/ThienNguyen/Desktop/Auto Test Tool Sytem Documents/software source code/research.py",
+		"/C/Users/ThienNguyen/Desktop/Auto Test Tool Sytem Documents/software source code/research images.py",
+		"/C/Users/ThienNguyen/Desktop/Auto Test Tool Sytem Documents/software source code/image_process.py",
+		"/C/Users/ThienNguyen/Desktop/Document/demo script for auto test.txt",
+		"/C/Users/ThienNguyen/Desktop/Document/New Text Document.txt",
+		"/C/Users/ThienNguyen/Desktop/Document/demo script.txt",
+		"/G/Google Drive/3. Coding/Auto Test Tool Project/script.txt",
+		"/G/Google Drive/3. Coding/englishbot/database_process.py",
+		"/F/Test Tele/Simulation/Ford/2018 Ford Ford Explorer V6, 3.5L_1_LikeGo_1FM5K8D83JGB93733.sim",
+		"/F/Test Tele/Telematics Report/June162020/Ford_1FM5K8D83JGB93733_June162020_CarMD_Test1.log",
+		"/F/Test Tele/Telematics Report/June162020/Ford_1FM5K8D83JGB93733_June162020_CarMD_Test1.cap",
+		"/F/Test Tele/Telematics Report/June162020/Ford_J1FM5K8D83JGB93733_June162020_Innova_Test1y.log",
+		"/G/Google Drive/3. Coding/englishbot/main.py",
+		"/G/Google Drive/3. Coding/Python/get_paths/get_paths.py",
+		"/G/Google Drive/3. Coding/englishbot/mypaths.py",
+		"/G/Google Drive/3. Coding/englishbot/forced_alignment.py",
+		"/G/Google Drive/3. Coding/englishbot/Note.txt",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/note.txt",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/output/corpus_directory/test2.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/output/corpus_directory/test1.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/output/oovs_found.txt",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/output/corpus_directory/a.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/output/19/19-198-0000.TextGrid",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/Librispeech/19/19-198-0000.lab",
+		"/C/Users/ThienNguyen/Desktop/Montreal Aligner/librispeech-lexicon.txt",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/mfcc/cmvn/cmvn.ark",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/split1/cmvndeltafeats_fmllr.0",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/split1/cmvndeltafeats.0",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/split1/oovs_found.txt",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/spk2utt",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/utt2spk",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/train/text",
+		"/C/Users/ThienNguyen/Documents/MFA/demo/dictionary/words.txt",
+		"/C/Users/ThienNguyen/Desktop/montreal-forced-aligner_win64/montreal-forced-aligner/demo/Clothes.txt",
+		"/C/Users/ThienNguyen/Desktop/montreal-forced-aligner_win64/montreal-forced-aligner/dictionary.txt",
+		"/G/Google Drive/3. Coding/englishbot/aeneas_example.py",
+		"/C/Users/ThienNguyen/Desktop/montreal-forced-aligner_win64/montreal-forced-aligner/output/oovs_found.txt",
+		"/C/Users/ThienNguyen/Desktop/montreal-forced-aligner_win64/montreal-forced-aligner/output/utterance_oovs.txt",
+		"/C/Users/ThienNguyen/Desktop/montreal-forced-aligner_win64/montreal-forced-aligner/Clothes.txt",
+		"/C/Users/ThienNguyen/Desktop/Prosodylab-Aligner-master/README.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 601.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"is_data_existing",
+			"check",
+			"3319",
+			"Value",
+			"steer",
+			"print",
+			"set",
+			"     NONE    0   0",
+			">1           ",
+			"    ",
+			"\\), \\(",
+			", ",
+			"'",
+			"    ",
+			"     ",
+			", ",
+			"prin",
+			"stand",
+			"WindowsForms10.EDIT",
+			"WindowsForms10.EDIT.",
+			"WindowsForms10.EDIT.a",
+			"WindowsForms10.EDIT.ap",
+			"WindowsForms10.EDIT.app",
+			"WindowsForms10.EDIT.app.",
+			"WindowsForms10.EDIT.app.0",
+			"WindowsForms10.EDIT.app.0.",
+			"WindowsForms10.EDIT.app.0.1",
+			"WindowsForms10.EDIT.app.0.14",
+			"WindowsForms10.EDIT.app.0.141",
+			"WindowsForms10.EDIT.app.0.141b",
+			"WindowsForms10.EDIT.app.0.141b4",
+			"WindowsForms10.EDIT.app.0.141b42",
+			"WindowsForms10.EDIT.app.0.141b42a",
+			"WindowsForms10.EDIT.app.0.141b42a_",
+			"WindowsForms10.EDIT.app.0.141b42a_r",
+			"WindowsForms10.EDIT.app.0.141b42a_r9",
+			"WindowsForms10.EDIT.app.0.141b42a_r9_",
+			"WindowsForms10.EDIT.app.0.141b42a_r9_a",
+			"WindowsForms10.EDIT.app.0.141b42a_r9_ad",
+			"WindowsForms10.EDIT.app.0.141b42a_r9_ad1",
+			"WindowsForms10.EDIT.app.0.141b42a_r9_ad14",
+			"data",
+			"DATA",
+			", ",
+			"start_time",
+			"autoit_exe_path",
+			"'sim_auto.au3'",
+			"activate",
+			":\n",
+			"False",
+			"\",",
+			" \"",
+			"jealous",
+			"I am? What am I jealous of?",
+			"english",
+			"''",
+			"\\n",
+			"- - ",
+			" - -",
+			"\\n",
+			"\\n\\[  - ",
+			"'\\n",
+			"\\n",
+			"Hi, How is it going?",
+			"{}",
+			"\tNONE",
+			" +\tNONE",
+			" NONE    0   0",
+			"1      +",
+			"\\+100.",
+			"+100.",
+			"\\+100. \\d\\d",
+			"\\+100. ..",
+			"+1001 00",
+			"\\+100x xx",
+			"voice",
+			"facebook",
+			"id",
+			"id=.+",
+			"id=",
+			"pdf",
+			"jpg",
+			"pdf",
+			"id=",
+			"id",
+			": ",
+			"^([^:]*?): ",
+			": (?=^.+?)",
+			": (?=^.+)?",
+			": (?=^.+?)",
+			": ",
+			"GROUP",
+			"\\t",
+			"voice",
+			"chat.voice",
+			"voice",
+			"msg",
+			"voice",
+			"voiceUrl",
+			"voiceId",
+			"MSG_VOICE",
+			"voiceUrl",
+			"cache.voice.talk.zdn.vn",
+			"amr",
+			"cache.voice.talk.zdn.vn",
+			"https://cache.voice.talk.zdn.vn",
+			"voice",
+			"talk",
+			"voice",
+			"sound-container__pla",
+			"zdn",
+			"mp3",
+			"msgid",
+			"e5a01",
+			"2Ff1",
+			"3A2F",
+			"3A",
+			"3A%2F%2Ff1",
+			"voice",
+			"1936485725421",
+			"1936354555321",
+			"sound-containe",
+			"sound-container\n",
+			"play",
+			"cache",
+			"10034e5a01",
+			"10034e5a01..",
+			"voice"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" \\tNONE\\t0\\t0",
+			">1\\t\\t\\t",
+			"\\t",
+			"\\)\\n\\(",
+			"\\n",
+			"",
+			"\\t",
+			"\\n",
+			"self.autoit_exe_path",
+			"autoit_exe_path",
+			"connect",
+			"",
+			"\\'",
+			",\\n",
+			"",
+			"\\]\\n",
+			",",
+			"',",
+			"'\\n",
+			" \\tNONE",
+			"\\tNONE\\t0\\t0",
+			"1\\t\\t\\t",
+			"{}",
+			"{} {}",
+			"{} {} ",
+			"\\t",
+			"\\n\\n\\nGROUP",
+			"\\n",
+			"",
+			" = None",
+			"None",
+			"'Message'",
+			"ButtonCameraConnect",
+			"gl_cam",
+			"cam",
+			"\\n",
+			"TextReference",
+			"cv_img",
+			"ButtonScreenCorrection",
+			"CanvasReference",
+			"TextPercentage",
+			"TextAngle",
+			"CanvasCurrent",
+			"Text_Percentage",
+			"Text_Angle",
+			"start_gui",
+			"cv_img",
+			"Canvas_Screen",
+			"Canvas",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"find_screen_contour",
+			"rotate_image",
+			"detect_screen_contour",
+			"capture_camera",
+			".png",
+			"-",
+			"\"",
+			"protocol_type",
+			"<",
+			">",
+			"current_row_cmd",
+			"row_order",
+			"max_data_length_per_row",
+			"number_of_data_bytes",
+			"cmd_order",
+			"comd_order",
+			"number_of_rows_with_max_data_bytes",
+			"command_order_byte_flag",
+			"initial_part",
+			"initial_parts",
+			"initial_part",
+			"max_data_lenth_per_row",
+			"ecu_addr",
+			"_file_path",
+			"file_path",
+			"    ",
+			">\\n<",
+			"",
+			"{{ monitor }}",
+			"{{ general_monitor }}",
+			"{",
+			"}",
+			"    ",
+			"....",
+			"        <",
+			"}}",
+			"{{",
+			"}}",
+			"}",
+			"{",
+			"\\t",
+			"",
+			"\\t",
+			"08 xx",
+			"000007E8 08 05 62",
+			"\\n",
+			" \tNONE\t0\t0 ",
+			"\\n",
+			"",
+			"\\t",
+			"",
+			"\\n",
+			"",
+			"//NOTE:\\n//NOTE:\\n//NOTE:system",
+			"\\n",
+			"\"system",
+			"\"\\n\\n\\n",
+			"\\nsystem\"",
+			"<daynhaydoi>",
+			"",
+			"\\n\\n\\n\\n",
+			"",
+			"\"\\n\\n\\n",
+			"\\n\"system",
+			"<daynhaydoi>",
+			"",
+			"\\n\\n\\n\\n\\n",
+			"\\n\\n\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7904,
+								7904
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5571.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scratch.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sim.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4780,
+								4780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3619.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vehicles.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1401,
+								1410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "check_serial_ports.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dtc_converter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 203.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 116.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 337.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotodocumentation":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/Python32.sublime-build",
+	"project": "boschfix.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Google Drive\\3. Coding\\Java\\Tutorial\\JavaPackage\\a.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

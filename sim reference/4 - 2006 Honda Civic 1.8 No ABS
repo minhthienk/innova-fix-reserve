@@ -1,0 +1,599 @@
+2006 Honda Civic 1.8 No ABS
+
+DTCs (Codes)
+
+P150C                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P150D                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P150E                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P100E                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P100F                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106A                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106B                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106C                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106D                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106E                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P106F                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P1070                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P1071                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P1010                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P1072                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P023F                  Mod $11
+
+Fuel Pump Secondary Circuit / Open
+
+CONFIRMED
+
+------------------------------
+
+P1011                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P16E1                  Mod $11
+
+No DTC definition found. See service
+manual
+
+CONFIRMED
+
+------------------------------
+
+P0831                  Mod $11
+
+Clutch Pedal Switch A Circuit Low
+
+CONFIRMED
+
+------------------------------
+
+P0835                  Mod $11
+
+Clutch Pedal Switch B Circuit High
+
+CONFIRMED
+
+------------------------------
+
+P1607                  Mod $11
+
+ECM Internal Circuit Malfunction A
+
+CONFIRMED
+
+------------------------------
+
+P1608                  Mod $11
+
+ECM Internal Circuit Malfunction B
+
+CONFIRMED
+
+------------------------------
+
+P0604                  Mod $11
+
+Internal Control Module Random Access
+Memory Malfunction
+
+CONFIRMED
+
+------------------------------
+
+P0601                  Mod $11
+
+Internal Control Module Memory Check Sum
+Malfunction
+
+CONFIRMED
+
+------------------------------
+
+P0606                  Mod $11
+
+Engine Control Module / Powertrain
+Control Module Processor
+
+CONFIRMED
+
+FREQ REPORTED FIX
+1-Replaced Engine Control
+  Module (ECM)
+
+
+------------------------------
+
+P0605                  Mod $11
+
+Internal Control Module Rom Malfunction
+
+CONFIRMED
+
+------------------------------
+
+P2197                  Mod $11
+
+Oxygen Sensor Signal Biased / Stuck Lean
+Bank 2 Sensor 1
+
+CONFIRMED
+
+------------------------------
+
+P0154                  Mod $11
+
+Oxygen Circuit No Activity Detected
+(Bank 2 Sensor 1)
+
+CONFIRMED
+
+------------------------------
+
+P2298                  Mod $11
+
+Oxygen Sensor Out Of Range During
+Deceleration Bank 2 Sensor 1
+
+CONFIRMED
+
+------------------------------
+
+P2297                  Mod $11
+
+Oxygen Sensor Out Of Range During
+Deceleration Bank 1 Sensor 1
+
+CONFIRMED
+
+------------------------------
+
+P0131                  Mod $11
+
+Oxygen Sensor Circuit Low Voltage Bank 1
+Sensor 1
+
+CONFIRMED
+
+------------------------------
+
+P0132                  Mod $11
+
+Oxygen Sensor Circuit High Voltage Bank
+1 Sensor 1
+
+CONFIRMED
+
+------------------------------
+
+P0107                  Mod $11
+
+Manifold Absolute Pressure Or Barometric
+Pressure Circuit Low Input
+
+CONFIRMED
+
+------------------------------
+
+P0335                  Mod $11
+
+Crankshaft Position Sensor A Circuit
+Malfunction
+
+CONFIRMED
+
+------------------------------
+
+P0336                  Mod $11
+
+Crankshaft Position Sensor A Circuit
+Range / Performance
+
+CONFIRMED
+
+------------------------------
+
+P0339                  Mod $11
+
+Crankshaft Position Sensor A Circuit
+Intermittent
+
+CONFIRMED
+
+------------------------------
+
+P0345                  Mod $11
+
+Camshaft Position Sensor A Circuit (Bank
+2)
+
+CONFIRMED
+
+------------------------------
+
+P0349                  Mod $11
+
+Camshaft Position Sensor A Circuit
+Intermittent (Bank 2)
+
+CONFIRMED
+
+------------------------------
+
+P1128                  Mod $11
+
+Manifold Absolute Pressure Sensor Signal
+Lower Than Expected
+
+CONFIRMED
+
+------------------------------
+
+P1129                  Mod $11
+
+Manifold Absolute Pressure Sensor Signal
+Higher Than Expected
+
+CONFIRMED
+
+------------------------------
+
+P0068                  Mod $11
+
+Manifold Absolute Pressure / Mass Air
+Flow - Throttle Position Correlation
+
+CONFIRMED
+
+------------------------------
+
+P0106                  Mod $11
+
+Manifold Absolute Pressure / Barometric
+Pressure Sensor Range/Performance
+
+CONFIRMED
+
+------------------------------
+
+P0117                  Mod $11
+
+Engine Coolant Temperature Sensor 1
+Circuit Low Input
+
+CONFIRMED
+
+------------------------------
+
+P0118                  Mod $11
+
+Engine Coolant Temperature Sensor
+Circuit High Voltage
+
+CONFIRMED
+
+------------------------------
+
+P0122                  Mod $11
+
+Throttle / Pedal Position Sensor A
+Circuit Low Input
+
+CONFIRMED
+
+------------------------------
+
+P0123                  Mod $11
+
+Throttle / Pedal Position Sensor A
+Circuit High Input
+
+CONFIRMED
+
+------------------------------
+
+P0222                  Mod $11
+
+Throttle / Pedal Position Sensor/Switch
+B Circuit Low Input
+
+CONFIRMED
+
+------------------------------
+
+P0223                  Mod $11
+
+Throttle / Pedal Position Sensor/Switch
+B Circuit High Input
+
+CONFIRMED
+
+------------------------------
+
+P2135                  Mod $11
+
+Throttle / Pedal Position Sensor/Switch
+A/B Voltage Correlation
+
+CONFIRMED
+
+------------------------------
+
+P0121                  Mod $11
+
+Throttle / Pedal Position Sensor A
+Circuit Range/Performance
+
+CONFIRMED
+
+------------------------------
+
+P0221                  Mod $11
+
+Throttle / Pedal Position Sensor/Switch
+B Circuit Range/Performance
+
+CONFIRMED
+
+------------------------------
+
+P1362                  Mod $11
+
+Top Dead Center Sensor No Signal
+
+CONFIRMED
+
+------------------------------
+
+P1361                  Mod $11
+
+Top Dead Center Sensor Noise
+
+CONFIRMED
+
+------------------------------
+
+P1359                  Mod $11
+
+Top Dead Center / Crankshaft Position No
+Signal Or Noise
+
+CONFIRMED
+
+------------------------------
+
+P1382                  Mod $11
+
+Cylinder Position Sensor No Signal
+
+CONFIRMED
+
+------------------------------
+
+P1381                  Mod $11
+
+Cylinder Position Sensor Noise
+
+CONFIRMED
+
+------------------------------
+
+P0390                  Mod $11
+
+Camshaft Position Sensor B Circuit Bank
+2
+
+CONFIRMED
+
+------------------------------
+
+P0394                  Mod $11
+
+Camshaft Position Sensor B Circuit
+Intermittent Bank 2
+
+CONFIRMED
+
+------------------------------
+
+P0111                  Mod $11
+
+Intake Air Temperature Sensor 1 Circuit
+Range / Performance
+
+CONFIRMED
+
+FREQ REPORTED FIX
+1-Replaced Engine Coolant
+  Temperature (ECT) Sensor #2
+
+ALSO REPORTED FIXES
+1-Cleaned Engine Coolant
+  Temperature (ECT) Sensor #2
+  Connector
+2-Repaired Engine Coolant
+  Temperature (ECT) Sensor #2
+  Connector
+3-Replaced Engine Coolant
+  Temperature (ECT) Sensor #2
+  Connector
+4-Repaired Engine Coolant
+  Temperature (ECT) Sensor #2
+  Wiring
+5-Repaired Engine Coolant
+  Temperature (ECT) Sensor
+  Connector
+6-Repaired Engine Coolant
+  Temperature (ECT) Sensor
+  Ground Wiring
+
+
+------------------------------
+
+P0097                  Mod $11
+
+Intake Air Temperature Sensor 2 Circuit
+Low
+
+CONFIRMED
+
+------------------------------
+
+P0098                  Mod $11
+
+Intake Air Temperature Sensor 2 Circuit
+High
+
+CONFIRMED
+
+------------------------------
+
+P0096                  Mod $11
+
+Intake Air Temperature Sensor 2 Circuit
+Range / Performance
+
+CONFIRMED
+
+------------------------------
+
+P1213                  Mod $11
+
+Integrated Motor Assist Sensor Circuit
+Voltage Low
+
+CONFIRMED
+
+------------------------------
+
+P1214                  Mod $11
+
+Integrated Motor Assist Sensor Circuit
+Voltage High
+
+CONFIRMED
+
+
